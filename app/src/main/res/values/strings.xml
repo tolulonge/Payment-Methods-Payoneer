@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Payoneer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Payoneer</string>
+    <string name="second_fragment_label">Payment Methods</string>
+    <string name="next">Next</string>
+    <string name="hello_welcome">Hello and Welcome to Payoneer, Click next to view all supported payment methods</string>
+    <string name="please_go_back_to_retry">Please go back to retry</string>
+</resources>
